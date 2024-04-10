@@ -16,7 +16,7 @@
 
 ##### Descifrado
 <p>
-<img src="Foto_2.PNG" alt="Ejemplo 2"/>
+<img src="foto_2.PNG" alt="Ejemplo 2"/>
 <p/>
 
 ##### Historial
